@@ -1,0 +1,8 @@
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Release\Lecture1Example.exe.config
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Release\Lecture1Example.exe
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Release\Lecture1Example.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Release\Lecture1Example.Form1.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Release\Lecture1Example.Properties.Resources.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Release\Lecture1Example.csproj.GenerateResource.Cache
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Release\Lecture1Example.exe
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Release\Lecture1Example.pdb

@@ -1,0 +1,35 @@
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.exe.config
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.exe
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Form1.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Properties.Resources.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csproj.GenerateResource.Cache
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.exe
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csprojResolveAssemblyReference.cache
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.CalculatorMenu.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Date_Calculator.resources
+c:\users\taruc\documents\visual studio 2013\Projects\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Unit_Converter.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.exe.config
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.exe
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csprojResolveAssemblyReference.cache
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.CalculatorMenu.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Date_Calculator.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Form1.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Properties.Resources.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Unit_Converter.resources
+F:\GUI Programming\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.exe.config
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.exe
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.exe
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\bin\Debug\Lecture1Example.pdb
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.CalculatorMenu.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Date_Calculator.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Form1.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Properties.Resources.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.Unit_Converter.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.pdb
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.StandardCalculator.resources
+C:\Users\Jet\Desktop\Lecture1Example\Lecture1Example\obj\Debug\Lecture1Example.ProgrammerCalculator.resources

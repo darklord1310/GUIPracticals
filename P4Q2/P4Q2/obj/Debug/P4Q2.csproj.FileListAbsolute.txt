@@ -1,0 +1,10 @@
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\bin\Debug\P4Q2.exe.config
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\bin\Debug\P4Q2.exe
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\bin\Debug\P4Q2.pdb
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\bin\Debug\LibUsbDotNet.dll
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.Form1.resources
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.Properties.Resources.resources
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.exe
+C:\Users\Jet\Desktop\GUI Practical\P4Q2\P4Q2\obj\Debug\P4Q2.pdb

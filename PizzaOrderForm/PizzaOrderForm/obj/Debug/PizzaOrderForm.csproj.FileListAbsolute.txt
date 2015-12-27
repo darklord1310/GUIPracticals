@@ -1,0 +1,45 @@
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe.config
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.pdb
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csprojResolveAssemblyReference.cache
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Form1.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.GuestOrderForm.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MainMenu.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MemberForm.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Payment.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.PizzaOrderForm.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Properties.Resources.resources
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.GenerateResource.Cache
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.exe
+c:\users\taruc\documents\visual studio 2013\Projects\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.pdb
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe.config
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.exe
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.pdb
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.pdb
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Form1.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.GuestOrderForm.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MainMenu.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MemberForm.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Payment.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.PizzaOrderForm.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Properties.Resources.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Step_2.resources
+C:\Users\Jet\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.GenerateResource.Cache
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe.config
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.exe
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.pdb
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.exe
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\bin\Debug\PizzaOrderForm.pdb
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csprojResolveAssemblyReference.cache
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.choose_pizza.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Form1.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.GuestOrderForm.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MainMenu.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.MemberForm.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Payment.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.PizzaOrderForm.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Properties.Resources.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.Step_2.resources
+C:\Users\taruc\Desktop\PizzaOrderForm\PizzaOrderForm\obj\Debug\PizzaOrderForm.csproj.GenerateResource.Cache

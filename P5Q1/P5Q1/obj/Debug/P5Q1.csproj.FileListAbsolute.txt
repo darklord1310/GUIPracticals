@@ -1,0 +1,8 @@
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\bin\Debug\P5Q1.exe.config
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\bin\Debug\P5Q1.exe
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\bin\Debug\P5Q1.pdb
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\obj\Debug\P5Q1.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\obj\Debug\P5Q1.Properties.Resources.resources
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\obj\Debug\P5Q1.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\obj\Debug\P5Q1.exe
+C:\Users\Jet\Desktop\GUI Practical\P5Q1\P5Q1\obj\Debug\P5Q1.pdb

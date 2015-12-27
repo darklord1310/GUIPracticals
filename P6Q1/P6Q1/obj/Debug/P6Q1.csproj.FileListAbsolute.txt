@@ -1,0 +1,17 @@
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\bin\Debug\P6Q1.exe.config
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\bin\Debug\P6Q1.exe
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\bin\Debug\P6Q1.pdb
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\obj\Debug\P6Q1.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\obj\Debug\P6Q1.Properties.Resources.resources
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\obj\Debug\P6Q1.csproj.GenerateResource.Cache
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\obj\Debug\P6Q1.exe
+C:\Users\Jet\Desktop\Practical 6\P6Q1\P6Q1\obj\Debug\P6Q1.pdb
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\bin\Debug\P6Q1.exe.config
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.exe
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.pdb
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\bin\Debug\P6Q1.exe
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\bin\Debug\P6Q1.pdb
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.csprojResolveAssemblyReference.cache
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.Form1.resources
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.Properties.Resources.resources
+C:\Users\Jet\Desktop\GUI Practical\P6Q1\P6Q1\obj\Debug\P6Q1.csproj.GenerateResource.Cache
